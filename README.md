@@ -1,6 +1,4 @@
 # python2024_final
-Here's a suggested README file for your project. It includes details about the objective, methodology, and structure based on typical data cleaning and modeling workflows.
-
 ---
 
 # Movie Ratings Prediction Project
